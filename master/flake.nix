@@ -11,6 +11,7 @@
   inputs.src-kdb-master.ref   = "refs/heads/master";
   inputs.src-kdb-master.owner = "inv2004";
   inputs.src-kdb-master.repo  = "kdb_nim";
+  inputs.src-kdb-master.dir   = "";
   inputs.src-kdb-master.type  = "github";
   
   inputs."terminaltables".owner = "nim-nix-pkgs";
